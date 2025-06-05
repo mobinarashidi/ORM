@@ -1,0 +1,10 @@
+com\example\demo\DemoApplication.class
+com\example\demo\entity\User.class
+com\example\demo\entity\UserAnime.class
+com\example\demo\repository\AnimeRepository.class
+com\example\demo\repository\UserAnimeRepository.class
+com\example\demo\entity\UserAnimeId.class
+com\example\demo\dto\AnimeDTO.class
+com\example\demo\controller\MainController.class
+com\example\demo\entity\Anime.class
+com\example\demo\repository\UserRepository.class
